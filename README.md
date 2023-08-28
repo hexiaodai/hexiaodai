@@ -30,10 +30,9 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
-<!-- 🚧 ### my todoist stats: -->
+### 🚧 my todoist stats:
+
 <!-- TODO-IST:START -->
-<!-- 🏆  8,004 Karma Points            -->
-<!-- 🌸  Completed 0 tasks today            -->
-<!-- ✅  Completed 673 tasks so far            -->
-<!-- ⏳  Longest streak is 10 days -->
+<!-- 🌸  Completed 0 tasks today -->
+✅  Completed 833 pull requests so far (2021-10-1 ~ 2023-8-28)
 <!-- TODO-IST:END -->
