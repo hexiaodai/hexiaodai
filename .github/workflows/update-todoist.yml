@@ -3,7 +3,8 @@ name: Todoist Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 18 * * *"
+    # UTC time (18:00 Beijing time)
+    - cron: "0 10 * * *"
 
 jobs:
   update-readme:
