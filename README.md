@@ -34,11 +34,11 @@ Docker            23 mins         ▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-### 🚧 my todoist stats:
+<!-- ### 🚧 my todoist stats: -->
 
 <!-- TODO-IST:START -->
 <!-- 🌸  Completed 0 tasks today -->
-✅  Completed 833 pull requests so far
+<!-- ✅  Completed 833 pull requests so far -->
 
-✅  Completed 336 issues so far
+<!-- ✅  Completed 336 issues so far -->
 <!-- TODO-IST:END -->
