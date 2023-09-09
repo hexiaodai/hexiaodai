@@ -2,9 +2,9 @@
 
 ### Cloud Native
 
-😄 I'm a cloud native developer and [fence](https://github.com/hexiaodai/fence) project author.
+- 😄 I'm a cloud native developer and [fence](https://github.com/hexiaodai/fence) project author.
 
-🧐 I'm currently learning kubernetes, istio, envoy and kubevirt.
+- 🧐 I'm currently learning kubernetes, istio, envoy and kubevirt.
 
 <!--
 ### 🐵 languages and tools
@@ -31,9 +31,10 @@
 
 -->
 
-### 📊 this week i spent my time on
+<!-- ### 📊 this week i spent my time on -->
 <!--START_SECTION:waka-->
 
+<!--
 ```txt
 Go                11 hrs 24 mins  ███████████▓░░░░░░░░░░░░░   46.60 %
 Markdown          11 hrs 19 mins  ███████████▓░░░░░░░░░░░░░   46.23 %
@@ -41,6 +42,7 @@ Protocol Buffer   30 mins         ▓░░░░░░░░░░░░░░�
 YAML              29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 Docker            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
+-->
 
 <!--END_SECTION:waka-->
 
